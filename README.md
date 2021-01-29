@@ -13,7 +13,7 @@ $ git clone https://github.com/MehedilslamRipon/Noob-CRUD-Node.git
 
 $ cd Noob-CRUD-Node
 
-$ node app.js
+$ node server.js
 ```
 
 Now open `POSTMAN` and play with `CRUD`!
